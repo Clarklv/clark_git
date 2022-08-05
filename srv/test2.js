@@ -1,2 +1,2 @@
-var clark = 1;
+var clark = 2;
 console.log(clark);
